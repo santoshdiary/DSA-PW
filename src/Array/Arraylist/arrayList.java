@@ -1,4 +1,4 @@
-package Array;
+package Array.Arraylist;
 import java.util.Scanner;
 import java.util.ArrayList;
 public class arrayList {
