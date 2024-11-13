@@ -7,13 +7,13 @@ public class Main {
         int [] santosh={-4,-3, 0,3,4,5,6,45,89,400,999,43553,56366337};
 
         // array element must be shorted before performing binary search
-        int indexFound=binearySearch(santosh,89);
+        int indexFound= binarySearch(santosh,89);
         System.out.println("element founded on index "+ indexFound);
 
 
     }
 
-    public static int binearySearch (int [] array, int target ){
+    public static int binarySearch(int [] array, int target ){
 
 
         int start=0;
