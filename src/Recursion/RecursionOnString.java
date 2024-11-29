@@ -1,7 +1,7 @@
 package Recursion;
 
 public class RecursionOnString {
-{}
+
 
     static String romoveA(String s,int idx){
         // base case
