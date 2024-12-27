@@ -25,6 +25,7 @@ public class implementation {
             }
             else
             {
+                //  means already some element in the list
                 tail.next=temp;
             }
             tail=temp;
